@@ -1,0 +1,14 @@
+# Ignore Python virtual environment
+.venv/
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore data and output
+data/
+output/
+*.csv
+
+# Ignore system files
+.DS_Store
+Thumbs.db
