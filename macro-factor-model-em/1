@@ -1,0 +1,25 @@
+📊 Loading actual EM and macro data...
+📈 PCA Explained Variance:
+PC1: 28.5%
+PC2: 21.6%
+PC3: 16.8%
+Total: 66.9%
+
+🔍 Actual R² Scores:
+Brazil_EWZ: R² = 0.164
+India_INDA: R² = 0.154
+China_FXI: R² = 0.199
+SouthAfrica_EZA: R² = 0.406
+Mexico_EWW: R² = 0.214
+Indonesia_EIDO: R² = 0.189
+
+📊 R² Ranking (Highest to Lowest):
+1. SouthAfrica_EZA: 0.406
+2. Mexico_EWW: 0.214
+3. China_FXI: 0.199
+4. Indonesia_EIDO: 0.189
+5. Brazil_EWZ: 0.164
+6. India_INDA: 0.154
+
+Average R²: 0.221
+Range: 0.154 - 0.406

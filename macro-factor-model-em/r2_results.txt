@@ -1,0 +1,14 @@
+Brazil_EWZ: 0.164
+India_INDA: 0.154
+China_FXI: 0.199
+SouthAfrica_EZA: 0.406
+Mexico_EWW: 0.214
+Indonesia_EIDO: 0.189
+
+Ranking:
+1. SouthAfrica_EZA: 0.406
+2. Mexico_EWW: 0.214
+3. China_FXI: 0.199
+4. Indonesia_EIDO: 0.189
+5. Brazil_EWZ: 0.164
+6. India_INDA: 0.154
