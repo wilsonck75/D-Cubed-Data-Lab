@@ -292,7 +292,7 @@ Our comprehensive visualization framework provides multiple analytical perspecti
 
 ### 1. Emerging Markets Performance Evolution
 
-![EM ETF Performance](output/markdown_plots/em_etf_performance.png)
+![EM ETF Performance](https://raw.githubusercontent.com/wilsonck75/D-Cubed-Data-Lab/main/macro-factor-model-EM/output/markdown_plots/em_etf_performance.png)
 
 **Performance Insights:**
 - **Regional Divergence**: Clear differentiation between EM regions over the analysis period
@@ -301,7 +301,7 @@ Our comprehensive visualization framework provides multiple analytical perspecti
 
 ### 2. Macroeconomic Factors Evolution
 
-![Macro Factors Evolution](output/markdown_plots/macro_factors_evolution.png)
+![Macro Factors Evolution](https://raw.githubusercontent.com/wilsonck75/D-Cubed-Data-Lab/main/macro-factor-model-EM/output/markdown_plots/macro_factors_evolution.png)
 
 **Factor Analysis:**
 - **Dollar Strength Cycles**: USD Index shows clear trending periods affecting EM flows
@@ -311,7 +311,7 @@ Our comprehensive visualization framework provides multiple analytical perspecti
 
 ### 3. Correlation Structure Analysis
 
-![Correlation Heatmap](output/markdown_plots/correlation_heatmap.png)
+![Correlation Heatmap](https://raw.githubusercontent.com/wilsonck75/D-Cubed-Data-Lab/main/macro-factor-model-EM/output/markdown_plots/correlation_heatmap.png)
 
 **Key Correlation Insights:**
 - **USD Sensitivity**: All EM markets show negative correlation with dollar strength
@@ -321,7 +321,7 @@ Our comprehensive visualization framework provides multiple analytical perspecti
 
 ### 4. Principal Component Analysis Results
 
-![PCA Analysis](output/markdown_plots/pca_analysis.png)
+![PCA Analysis](https://raw.githubusercontent.com/wilsonck75/D-Cubed-Data-Lab/main/macro-factor-model-EM/output/markdown_plots/pca_analysis.png)
 
 **PCA Findings:**
 - **Dimensionality Reduction**: First 3 components capture ~85-90% of macro factor variance
@@ -330,7 +330,7 @@ Our comprehensive visualization framework provides multiple analytical perspecti
 
 ### 5. Factor Model Performance Comparison
 
-![Factor Model R² Scores](output/markdown_plots/factor_model_r2_scores.png)
+![Factor Model R² Scores](https://raw.githubusercontent.com/wilsonck75/D-Cubed-Data-Lab/main/macro-factor-model-EM/output/markdown_plots/factor_model_r2_scores.png)
 
 **Model Performance Analysis:**
 - **Brazil (EWZ)**: Highest macro sensitivity (R² ≈ 0.65-0.75) due to commodity exposure
@@ -342,7 +342,7 @@ Our comprehensive visualization framework provides multiple analytical perspecti
 
 ### 6. Individual Market Analysis: Brazil ETF Example
 
-![Brazil Actual vs Predicted](output/plots/Brazil_EWZ.png)
+![Brazil Actual vs Predicted](https://raw.githubusercontent.com/wilsonck75/D-Cubed-Data-Lab/main/macro-factor-model-EM/output/plots/Brazil_EWZ.png)
 
 **Model Validation Results:**
 - **Strong Predictive Power**: Factor model captures major market movements effectively
@@ -465,7 +465,7 @@ print(f"Date range: {rolling_r2_df.index.min()} to {rolling_r2_df.index.max()}")
 ### Time-Varying Relationships
 Our rolling 60-day window analysis reveals that EM-macro relationships are not static:
 
-![Rolling R² Analysis](output/plots/r2_scores_by_em_index.png)
+![Rolling R² Analysis](https://raw.githubusercontent.com/wilsonck75/D-Cubed-Data-Lab/main/macro-factor-model-EM/output/plots/r2_scores_by_em_index.png)
 
 ### Key Findings from Rolling Analysis:
 
@@ -687,8 +687,8 @@ I hope you found this deep dive into emerging markets factor modeling insightful
   - [04_summary_report.ipynb](https://github.com/wilsonck75/D-Cubed-Data-Lab/blob/main/macro-factor-model-EM/notebooks/04_summary_report.ipynb) - Executive summary
 
 - **🎨 Visualizations**:
-  - [Factor Analysis Charts](output/plots/) - Comprehensive visualization suite
-  - [Rolling Analysis](output/plots/r2_scores_by_em_index.png) - Dynamic sensitivity tracking
+  - [Factor Analysis Charts](https://github.com/wilsonck75/D-Cubed-Data-Lab/tree/main/macro-factor-model-EM/output/plots) - Comprehensive visualization suite
+  - [Rolling Analysis](https://raw.githubusercontent.com/wilsonck75/D-Cubed-Data-Lab/main/macro-factor-model-EM/output/plots/r2_scores_by_em_index.png) - Dynamic sensitivity tracking
 
 **GitHub Repository**: [D-Cubed-Data-Lab/macro-factor-model-EM](https://github.com/wilsonck75/D-Cubed-Data-Lab/tree/main/macro-factor-model-EM)
 
