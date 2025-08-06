@@ -2,13 +2,12 @@
 layout: post
 title: "Finding Prime Numbers with Python: An Optimized Data Science Approach"
 date: 2025-08-04
+image: "/posts/primes_image.jpeg"
 categories: [Python, Data Science, Mathematics, Algorithms]
 tags: [Python, Primes, Data Analysis, Visualization, Jupyter, Optimization]
 ---
 
 # Finding Prime Numbers with Python: An Optimized Data Science Approach
-
-_10 minute read_
 
 In this post, I'm going to walk you through a comprehensive and **optimized** data science approach to finding and analyzing prime numbers using Python. This implementation features an enhanced algorithm that's **~2x faster** than basic approaches, along with statistical analysis, advanced visualizations, and professional data export capabilities - making it a complete toolkit for prime number research and education.
 
