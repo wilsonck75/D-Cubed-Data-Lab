@@ -1,14 +1,21 @@
-# Ignore Python virtual environment
+# --- Secrets ---
+.env
+*.env
+.env.*
+!.env.example   # allow a template without secrets
+
+# --- Python virtual envs ---
 .venv/
+venv/
+ENV/
 
-# Ignore Jupyter checkpoints
-.ipynb_checkpoints/
+# --- VS Code settings ---
+.vscode/*
+!.vscode/settings.json  # allow project-specific settings if needed
 
-# Ignore data and output
-data/
-output/
-*.csv
-
-# Ignore system files
+# --- macOS system files ---
 .DS_Store
-Thumbs.db
+
+# --- Python cache ---
+__pycache__/
+*.py[cod]

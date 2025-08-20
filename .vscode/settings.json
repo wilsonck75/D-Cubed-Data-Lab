@@ -1,4 +1,6 @@
 {
     "editor.formatOnSave": true,
     "files.autoSave": "onFocusChange"
+    "python.envFile": "${workspaceFolder}/.env"
+
 }

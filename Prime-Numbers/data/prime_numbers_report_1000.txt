@@ -1,0 +1,19 @@
+PRIME NUMBERS ANALYSIS REPORT\nGenerated on: 2025-08-06 16:11:37\n==================================================\n\nPARAMETERS:\nUpper Limit: 1,000\n\nRESULTS SUMMARY:\nTotal Prime Numbers Found: 168\nRange: 2 to 997\nAverage Prime Value: 453.14\nMedian Prime Value: 436.00\n\nGAP ANALYSIS:\nAverage Gap Between Consecutive Primes: 5.96\nLargest Gap: 20\nSmallest Gap: 1\n\nFIRST 10 PRIMES:\n0     2
+1     3
+2     5
+3     7
+4    11
+5    13
+6    17
+7    19
+8    23
+9    29\n\nLAST 10 PRIMES:\n158    937
+159    941
+160    947
+161    953
+162    967
+163    971
+164    977
+165    983
+166    991
+167    997\n
