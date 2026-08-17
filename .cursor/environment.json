@@ -1,0 +1,6 @@
+{
+  "name": "D-Cubed Data Lab",
+  "repositoryDependencies": [
+    "github.com/wilsonck75/wilsonck75.github.io"
+  ]
+}
